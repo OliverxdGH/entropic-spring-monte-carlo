@@ -2,8 +2,7 @@
 
 Monte Carlo simulation of a one-dimensional freely-jointed chain (rubber band).
 
-The model consists of **N links** of fixed length `a`, each pointing in either the `+` or `-` direction. The total extension is
-\( L = \sum_i a s_i \) with \( s_i \in \{-1, +1\} \).
+The model consists of **N links** of fixed length `a`, each pointing in either the `+` or `-` direction.
 
 This script studies:
 - **Unbiased sampling** of configurations and a comparison to the **analytic binomial distribution**
